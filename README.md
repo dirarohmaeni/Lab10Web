@@ -119,19 +119,23 @@ CREATE TABLE data_barang (
 ## 🖼️ Screenshot Dokumentasi
 ### 1️⃣ Halaman Login
 Menampilkan form login untuk autentikasi pengguna sebelum masuk ke sistem.
+![foto](https://github.com/dirarohmaeni/Lab10Web/blob/4fa24036a367398b1cd6cf8c7c9d895531ea1bcb/lab10/login.png)
 
 ### 2️⃣ Dashboard
 Menampilkan ringkasan sistem dan navigasi utama.
+![foto](https://github.com/dirarohmaeni/Lab10Web/blob/3553d8e05eb51ac48d21145188f4b05e77322caf/dashboard.png)
 
 ### 3️⃣ Data Barang
 Menampilkan daftar barang lengkap dengan gambar produk, harga, stok, dan aksi.
+![foto](https://github.com/dirarohmaeni/Lab10Web/blob/4fa24036a367398b1cd6cf8c7c9d895531ea1bcb/lab10/list.png)
 
 ### 4️⃣ Tambah Barang
 Form untuk menambahkan data barang baru beserta upload gambar.
+![foto](https://github.com/dirarohmaeni/Lab10Web/blob/4fa24036a367398b1cd6cf8c7c9d895531ea1bcb/lab10/tambah.png)
 
 ### 5️⃣ Ubah Barang
 Form edit data barang dengan tampilan yang sama seperti tambah barang.
-
+![foto](https://github.com/dirarohmaeni/Lab10Web/blob/4fa24036a367398b1cd6cf8c7c9d895531ea1bcb/lab10/ubah.png)
 
 ## ⚙️ Cara Menjalankan Aplikasi
 
